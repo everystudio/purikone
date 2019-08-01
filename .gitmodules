@@ -1,0 +1,6 @@
+[submodule "Assets/unity_common"]
+	path = Assets/unity_common
+	url = https://github.com/everystudio/unity_common.git
+[submodule "Assets/PlayMaker"]
+	path = Assets/PlayMaker
+	url = https://github.com/everystudio/PlayMaker.git
